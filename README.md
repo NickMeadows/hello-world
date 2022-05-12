@@ -1,4 +1,4 @@
 # hello-world
 Teaching the fundamentals of GitHub</br>
-Nick made this, To begin exploring git,</br>
-next up is PHP i think, We'll see.</br>
+This is Nicks git hello world</br>
+I wonder how many hello worlds have been printed, ever.</br>
